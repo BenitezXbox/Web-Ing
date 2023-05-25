@@ -1,0 +1,141 @@
+﻿.header {
+    background-image: url(../Imagenes/header.png);
+}
+
+.HeaderAdmin {
+    background-image: url(../Imagenes/HeaderAdmin.png);
+}
+
+.HeaderUser {
+    background-image: url(../Imagenes/HeaderUsuario.png);
+}
+
+.card-img-filter {
+    filter: brightness(0.7);
+}
+
+.text-univision {
+    color: #f2342e;
+}
+
+.backNavBar {
+    background-color: #444851;
+}
+
+.backhtml {
+    background-color: #444851;
+}
+
+.img-logo-univision {
+    width: 80px;
+}
+
+.Imaheader {
+    content: url(../Imagenes/Banner1.png);
+}
+
+.ImaheaderIngenieria {
+    content: url(../Imagenes/Banner2.png);
+}
+
+.ImaheaderMonitoreo {
+    content: url(../Imagenes/BannerMonitoreo.png);
+}
+
+.ImaheaderMonitoreohome {
+    content: url(../Imagenes/BannerMonitoreo1.png);
+}
+
+
+/* footer Imagenes */
+
+.img-TelevisaUnivisionfooter {
+    content: url(../Imagenes/Canales/Imagen1.png);
+}
+
+.img-Televisafooter {
+    content: url(../Imagenes/Canales/Imagen2.png);
+}
+
+.img-Univisionfooter {
+    content: url(../Imagenes/Canales/Imagen3.png);
+}
+
+.img-PrendeTV {
+    content: url(../Imagenes/Canales/Imagen4.png);
+}
+
+.img-Unimas {
+    content: url(../Imagenes/Canales/Imagen5.png);
+}
+
+.img-Tudn {
+    content: url(../Imagenes/Canales/Imagen6.png);
+}
+
+.img-Galavision {
+    content: url(../Imagenes/Canales/Imagen7.png);
+}
+
+.img-Uforia {
+    content: url(../Imagenes/Canales/Imagen8.png);
+}
+
+.img-Lasestrellas {
+    content: url(../Imagenes/Canales/Imagen9.png);
+}
+
+
+/* Imagenes proyecto N+ */
+
+.img-Antecedentes {
+    content: url(../Imagenes/ProyectoNMas/Antecedente.png);
+}
+
+.img-Diagrama {
+    content: url(../Imagenes/ProyectoNMas/Diagrama.png);
+}
+
+.img-Sembrado1 {
+    content: url(../Imagenes/ProyectoNMas/Sembrado1.png);
+}
+
+.img-Sembrado2 {
+    content: url(../Imagenes/ProyectoNMas/Sembrado2.png);
+}
+
+.img-Racks1 {
+    content: url(../Imagenes/ProyectoNMas/Racks1.png);
+}
+
+.img-Racks2 {
+    content: url(../Imagenes/ProyectoNMas/Racks2.png);
+}
+
+.img-Racks3 {
+    content: url(../Imagenes/ProyectoNMas/Racks3.png);
+}
+
+.img-Racks4 {
+    content: url(../Imagenes/ProyectoNMas/Racks4.png);
+}
+
+.img-Racks5 {
+    content: url(../Imagenes/ProyectoNMas/Racks5.png);
+}
+
+.img-Racks6 {
+    content: url(../Imagenes/ProyectoNMas/Racks6.png);
+}
+
+.img-SAS {
+    content: url(../Imagenes/ProyectoNMas/ConexionSas.png);
+}
+
+.img-Fiber {
+    content: url(../Imagenes/ProyectoNMas/FiberChannel.png);
+}
+
+#miPDF {
+    height: 1000px;
+}
